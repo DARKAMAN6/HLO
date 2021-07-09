@@ -92,11 +92,6 @@
         "description": "Api Hash",
         "value": "",
         "required": true
-      },
-      "ALIVE_PIC
-        "description": "Alive Pic", 
-        "value": "", 
-        "required": true
       }, 
       "SUDO": {
         "description": "Sudo Users Id",
