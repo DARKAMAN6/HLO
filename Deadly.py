@@ -17,7 +17,6 @@ from Utils import RAID, RRAID
 
 a = API_ID
 b = API_HASH
-c = ALIVE_PIC
 smex = STRING
 smexx = STRING2
 smexxx = STRING3
