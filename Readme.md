@@ -46,4 +46,5 @@
 ## credits 
 
 [yukki bot](https://github.com/YukkiBot/YukkiMultiSpamBot)
+AND SPECIAL THANKS TO RESPECTEDDEADLY BOT OWNER DEADLY SAMMER 🤗🤗
 [deadly-spam-bot](https://github.com/sameerpanthi/DEADLY-SPAM-BOT)
