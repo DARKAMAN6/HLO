@@ -8,8 +8,8 @@ from datetime import datetime
 from telethon import events
 from telethon.tl import functions, types
 
-from ULTRA import CMD_HELP
-from ULTRA.utils import admin_cmd
+from DARK import CMD_HELP
+from DARK.utils import admin_cmd
 
 global USER_AFK  # pylint:disable=E0602
 global afk_time  # pylint:disable=E0602
@@ -54,7 +54,7 @@ async def set_not_afk(event):
                 event.chat_id,
                 "Please set `PRIVATE_GROUP_BOT_API_ID` "
                 + "for the proper functioning of afk functionality "
-                + "Ask In @UltraXchaT Chat grp to get help..\n\n `{}`".format(str(e)),
+                + "Ask In @DARK5_SPAM_BOT Chat grp to get help..\n\n `{}`".format(str(e)),
                 reply_to=event.message.id,
                 silent=True,
             )
