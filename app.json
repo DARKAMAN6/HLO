@@ -93,6 +93,11 @@
         "value": "",
         "required": true
       },
+      "ALIVE_PIC
+        "description": "Alive pic", 
+        "value": "", 
+        "required": true
+      }, 
       "SUDO": {
         "description": "Sudo Users Id",
         "value": "",
