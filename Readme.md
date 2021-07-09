@@ -46,3 +46,4 @@
 ## credits 
 
 [yukki bot](https://github.com/YukkiBot/YukkiMultiSpamBot)
+[deadly-spam-bot](https://github.com/sameerpanthi/DEADLY-SPAM-BOT)
