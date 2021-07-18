@@ -46,4 +46,6 @@
 ## credits
 
 • ʏᴜᴋᴋɪ ʙᴏᴛ  »»   <a href="https://github.com/YukkiBot/YukkiMultiSpamBot" alt="ʏᴜᴋᴋɪ ʙᴏᴛ"> <img src="https://img.shields.io/badge/ʏᴜᴋᴋɪ ʙᴏᴛ-b07974d?logo=github" /></a>  ᴀɴᴅ sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ ʀᴇsᴘᴇᴄᴛᴇᴅ ᴅᴇᴀᴅʟʏ ʙᴏᴛ ᴏᴡɴᴇʀ ᴅᴇᴀᴅʟʏ sᴀᴍᴍᴇʀ 😇😇
-[deadly-spam-bot](https://github.com/sameerpanthi/DEADLY-SPAM-BOT)
+• ᴅᴇᴀᴅʟʏ ʙᴏᴛ »»   <a href="https://github.com/PYTHON-LOVER-SAMEER/DEADLY-SPAM-BOT" alt="ᴅᴇᴀᴅʟʏ sᴘᴀᴍ ʙᴏᴛ"> <img src="https://img.shields.io/badge/ᴅᴇᴀᴅʟʏ sᴘᴀᴍ ʙᴏᴛ-A679d?logo=github" /></a>
+
+
