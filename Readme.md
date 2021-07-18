@@ -28,7 +28,7 @@
 
 -------------------------------------------------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[DᴀʀᴋAᴍᴀɴ](https://t.me/DARKAMAN) <img src="https://img.shields.io/badge/DᴀʀᴋAᴍᴀɴ-b0559d?logo=github" /></a>
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[DᴀʀᴋAᴍᴀɴ] https://t.me/DARKAMAN > <img src="https://img.shields.io/badge/DᴀʀᴋAᴍᴀɴ-b0559d?logo=github" /></a>
 
 -------------------------------------------------
 
