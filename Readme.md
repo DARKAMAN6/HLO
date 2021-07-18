@@ -1,4 +1,4 @@
-# DARK SPAMMER
+# 𓆩ɖǟʀӄ ɮօȶ𓆪
 
 <p align="center">
   <img src="https://telegra.ph/file/435d5ce495ed3df2d3f8f.jpg">
@@ -28,7 +28,7 @@
 
 -------------------------------------------------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[DARKAMAN](https://t.me/DARKAMAN)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[DᴀʀᴋAᴍᴀɴ](https://t.me/DARKAMAN) <img src="https://img.shields.io/badge/DᴀʀᴋAᴍᴀɴ-b0559d?logo=github" /></a>
 
 -------------------------------------------------
 
