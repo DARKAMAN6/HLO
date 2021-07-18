@@ -45,5 +45,5 @@
 
 ## credits
 
-• ʏᴜᴋᴋɪ ʙᴏᴛ  »»   <a href="https://github.com/YukkiBot/YukkiMultiSpamBot" alt="yᴜᴋᴋɪ ʙᴏᴛ"> <img src="https://img.shields.io/badge/ʏᴜᴋᴋɪ ʙᴏᴛ-b056559d?logo=github" /></a> AND SPECIAL THANKS TO RESPECT DEADLY BOT OWNER DEADLY SAMMER 🤗🤗
+• ʏᴜᴋᴋɪ ʙᴏᴛ  »»   <a href="https://github.com/YukkiBot/YukkiMultiSpamBot" alt="ʏᴜᴋᴋɪ ʙᴏᴛ"> <img src="https://img.shields.io/badge/ʏᴜᴋᴋɪ ʙᴏᴛ-b07974d?logo=github" /></a>  ᴀɴᴅ sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ ʀᴇsᴘᴇᴄᴛᴇᴅ ᴅᴇᴀᴅʟʏ ʙᴏᴛ ᴏᴡɴᴇʀ ᴅᴇᴀᴅʟʏ sᴀᴍᴍᴇʀ 😇😇
 [deadly-spam-bot](https://github.com/sameerpanthi/DEADLY-SPAM-BOT)
