@@ -1,4 +1,4 @@
-# 𓆩ɖǟʀӄ ɮօȶ𓆪
+# 𓆩Hlo𓆪
 
 <p align="center">
   <img src="https://telegra.ph/file/435d5ce495ed3df2d3f8f.jpg">
@@ -33,7 +33,7 @@
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fdarkaman5%2FDARK-SPAM-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fdarkaman5%2FHLO)
 
 ------------------------------------------------
 
