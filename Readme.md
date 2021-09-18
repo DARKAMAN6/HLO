@@ -1,7 +1,7 @@
 # 𓆩Hlo𓆪
 
 <p align="center">
-  <img src="https://telegra.ph/file/435d5ce495ed3df2d3f8f.jpg">
+  <img src="https://telegra.ph/file/cc396d1100c438d716430.jpg">
 </p>
 
 
