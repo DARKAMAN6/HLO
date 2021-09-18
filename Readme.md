@@ -17,7 +17,7 @@
 ----
 
 ## 𝚂𝚃𝙰𝚃𝚄𝚂 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 
-<p align="left"><a href="https://github.com/darkaman5/dark-spam-bot/network/members"><img src="https://img.shields.io/github/forks/darkaman5/dark-spam-bot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/darkaman5/dark-spam-bot/stargazers"><img src="https://img.shields.io/github/stars/darkaman5/dark-spam-bot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/darkaman5/dark-spam-bot"></a><p align="left"><a href="https://github.com/darkaman5/dark-spam-bot?"><img src="https://img.shields.io/github/last-commit/datkaman5/deadly-spam-bot?style=plastic"></
+<p align="left"><a href="https://github.com/darkaman5/dark-spam-bot/network/members"><img src="https://img.shields.io/github/forks/darkaman6/dark-spam-bot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/darkaman5/dark-spam-bot/stargazers"><img src="https://img.shields.io/github/stars/darkaman5/dark-spam-bot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/darkaman5/dark-spam-bot"></a><p align="left"><a href="https://github.com/darkaman5/dark-spam-bot?"><img src="https://img.shields.io/github/last-commit/datkaman5/deadly-spam-bot?style=plastic"></
 
 -------------------------------------------------
 
@@ -33,7 +33,7 @@
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fdarkaman5%2FHLO)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fdarkaman6%2FHLO)
 
 ------------------------------------------------
 
