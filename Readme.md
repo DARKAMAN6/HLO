@@ -1,4 +1,4 @@
-# 𓆩𝙶𝙷𝙾𝚂𝚃 𝙼𝚄𝚂𝙸𝙲𓆪
+# 𓆩ᧁꫝꪮ𝘴𝓽 ꪑꪊ𝘴𝓲ᥴ𓆪
 
 <p align="center">
   <img src="https://telegra.ph/file/cc396d1100c438d716430.jpg">
@@ -52,24 +52,24 @@
 
 ```
 -------------------------------------------------
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[DᴀʀᴋAᴍᴀɴ](https://t.me/DARKAMAN)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝙳𝙰𝚁𝙺𝙰𝙼𝙰𝙽](https://t.me/DARKAMAN)
 
 -------------------------------------------------
 
 ## 🚀 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝚄𝙺𝙾
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fdarkaman6%2FHLO)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fdarkaman6%2FGHOST-MUSIC)
 
 -------------------------------------------------
 
 𝚃𝙰𝙺𝙴 𝚂𝚃𝚁𝙸𝙽𝙶 𝙵𝚁𝙾𝙼 𝙷𝙴𝚁𝙴 - 
 
-[![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://replit.com/@darkaman5/DARK#main.py)
+[![REPL](https://repl.it/badge/github/Darkaman5/GHOST MUSIC)](https://replit.com/@darkaman5/GHOST MUSIC)
     
 --------------------------------------------------
 
 ##𝚆𝙰𝚁𝙽𝙸𝙽𝙶 
 
-1 𝙲𝙻𝙾𝙽𝙴 𝙾𝚁 𝙵𝙾𝚁𝙺 𝙽𝙾𝚃 𝙰𝙻𝙻𝙾𝚆𝙴𝙳
-2 𝙰𝙶𝙰𝚁 𝙲𝙻𝙾𝙽𝙴 𝙼𝙸𝙻𝙰 𝚃𝙾 𝙳𝙼𝙲𝙰 
-3 𝙺𝙴 𝙻𝙴𝚈𝙴 𝚃𝙴𝚈𝙰𝚁 𝚁𝙴𝙷𝙽𝙰 
+𝙲𝙻𝙾𝙽𝙴 𝙾𝚁 𝙵𝙾𝚁𝙺 𝙽𝙾𝚃 𝙰𝙻𝙻𝙾𝚆𝙴𝙳
+𝙰𝙶𝙰𝚁 𝙲𝙻𝙾𝙽𝙴 𝙼𝙸𝙻𝙰 𝚃𝙾 𝙳𝙼𝙲𝙰 
+𝙺𝙴 𝙻𝙴𝚈𝙴 𝚃𝙴𝚈𝙰𝚁 𝚁𝙴𝙷𝙽𝙰 
