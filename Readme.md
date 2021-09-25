@@ -23,28 +23,11 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/dark5_spam_bot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/dark5_spammer"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/darkamansupport"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a> <a href="https://t.me/darkamanchannel"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
 ## 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂
-
-<p align="center">
-     <a href="https://github.com/DARKAMAN6/HIT-MEN-MUSIC"> <img src="https://img.shields.io/github/repo-size/DARKAMAN6/HIT-MEN-MUSIC?color=cyan&logo=github&logoColor=white&style=for-the-badge" /></a>
-</p>
-
-
-# ʜɪᴛ•ᴍᴇɴ•ᴍᴜ𝗌ɪᴄ༄
-⚠︎ ᴛʜɪ𝗌 ɪ𝗌 ʜɪᴛ ᴍᴇɴ ᴍᴜ𝗌ɪᴄ ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜ𝗌ɪᴄ ʙᴏᴛ ғᴏʀ ʙᴇ𝗌ᴛ ᴍᴜ𝗌ɪᴄ ᴇxᴘᴇʀɪᴇɴᴄᴇ !! 🤗
-
-![logo](https://telegra.ph/file/3bbc2fa668424bdb7c894.jpg)
-
-# Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[💥 ʜᴇʀᴇ 💥](https://t.me/darkamansupport)
-
-## ᴄʜᴀᴛᴛɪɴɢ ɢʀᴏᴜᴘ [💥 ᴄʜᴀᴛᴛɪɴɢ ɢʀᴏᴜᴘ 💥](https://t.me/mnvvcxz123456777)
-
-## Cᴏᴍᴍᴀɴᴅs
 ```
 ->Music•Player<-
 =>> *Song Playing* 🎧 
