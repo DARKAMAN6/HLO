@@ -1,4 +1,4 @@
-# 𓆩Hlo𓆪
+# 𓆩𝙶𝙷𝙾𝚂𝚃 𝙼𝚄𝚂𝙸𝙲𓆪
 
 <p align="center">
   <img src="https://telegra.ph/file/cc396d1100c438d716430.jpg">
@@ -28,11 +28,36 @@
 
 -------------------------------------------------
 
+## 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂
+
+->Music•Player<-
+=>> *Song Playing* 🎧 
+❍ /play  - play song you requested
+❍ /dplay  - play song you requested via deezer
+❍ /splay  - play song you requested via jio saavn
+❍ /playlist - Show now playing list
+❍ /current - Show now playing
+❍ /song  - download songs you want quickly
+❍ /search  - search videos on youtube with details
+❍ /deezer  - download songs you want quickly via deezer
+❍ /saavn  - download songs you want quickly via saavn
+❍ /video  - download videos you want quickly
+=>> *Admins only*
+❍ /player - open music player settings panel
+❍ /pause - pause song play
+❍ /resume - resume song play
+❍ /skip - play next song
+❍ /end - stop music play
+❍ /userbotjoin - invite assistant to your chat
+❍ /admincache - Refresh admin list
+
+
 ## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[DᴀʀᴋAᴍᴀɴ](https://t.me/DARKAMAN)
 
 -------------------------------------------------
 
-## 🚀 Deploy on Heroku 
+## 🚀 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝚄𝙺𝙾
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fdarkaman6%2FHLO)
 
 ------------------------------------------------
@@ -41,11 +66,4 @@
 
 [![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://replit.com/@darkaman5/DARK#main.py)
     
--------------------------------------------------
-
-## credits
-
-• ʏᴜᴋᴋɪ ʙᴏᴛ  »»   <a href="https://github.com/YukkiBot/YukkiMultiSpamBot" alt="ʏᴜᴋᴋɪ ʙᴏᴛ"> <img src="https://img.shields.io/badge/ʏᴜᴋᴋɪ ʙᴏᴛ-b07974d?logo=github" /></a>  ᴀɴᴅ sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ ʀᴇsᴘᴇᴄᴛᴇᴅ ᴅᴇᴀᴅʟʏ ʙᴏᴛ ᴏᴡɴᴇʀ ᴅᴇᴀᴅʟʏ sᴀᴍᴍᴇʀ 😇😇
-• ᴅᴇᴀᴅʟʏ ʙᴏᴛ »»   <a href="https://github.com/PYTHON-LOVER-SAMEER/DEADLY-SPAM-BOT" alt="ᴅᴇᴀᴅʟʏ sᴘᴀᴍ ʙᴏᴛ"> <img src="https://img.shields.io/badge/ᴅᴇᴀᴅʟʏ Sᴘᴀᴍ ʙᴏᴛ-A679d?logo=github" /></a>
-
-
+-------------------------------------------------#𝚆𝙰𝚁𝙽𝙸𝙽𝙶 
