@@ -64,7 +64,7 @@
 
 𝚃𝙰𝙺𝙴 𝚂𝚃𝚁𝙸𝙽𝙶 𝙵𝚁𝙾𝙼 𝙷𝙴𝚁𝙴 - 
 
-[![REPL](https://repl.it/badge/github/Darkaman5/GHOST MUSIC)](https://replit.com/@darkaman5/GHOST MUSIC)
+[![REPL](https://repl.it/badge/github/Darkaman5/GHOST-MUSIC)](https://replit.com/@darkaman5/GHOST-MUSIC)
     
 --------------------------------------------------
 
